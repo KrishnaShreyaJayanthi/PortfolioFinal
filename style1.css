@@ -1,0 +1,18 @@
+p {
+    color: magenta;
+    font-family: Segoe Print;
+}
+
+h1 {
+    color: rgb(0, 225, 255);
+    font-family: Segoe Print;
+}
+
+img {
+    border: 3px solid black;
+}
+
+h4 {
+    color: lightcoral;
+    font-family: Segoe Print;
+}
